@@ -3,10 +3,12 @@
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![DRF](https://img.shields.io/static/v1?style=for-the-badge&message=DRF&color=A30000&logo=Django&logoColor=FFFFFF&label=)
 ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)
+![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)  
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)   
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -26,9 +28,10 @@
 
 ### Testing
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)  
 ![Jasmine](https://img.shields.io/static/v1?style=for-the-badge&message=Jasmine&color=8A4182&logo=Jasmine&logoColor=FFFFFF&label=)
 ![Protractor](https://img.shields.io/static/v1?style=for-the-badge&message=Protractor&color=ED163A&logo=Protractor&logoColor=FFFFFF&label=)
+![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)
 
 ### Administration
 ![CentOS](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label=)
@@ -42,9 +45,10 @@
 
 ### Tools
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)  
 ![Redmine](https://img.shields.io/static/v1?style=for-the-badge&message=Redmine&color=B32024&logo=Redmine&logoColor=FFFFFF&label=)
 ![PlantUML](https://img.shields.io/static/v1?style=for-the-badge&message=PlantUML&color=8A4182&label=)
-![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 
 ### Stats
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmartli&layout=compact&count_private=true&theme=gruvbox)
